@@ -17,6 +17,7 @@ public class Operacion {
     private int resta;
     private int multiplicacion;
     private float division;
+    private String atributo1;
 
     public Operacion() {
     }
